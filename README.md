@@ -29,11 +29,12 @@ TensorRT-LLM
   - [In-flight Batching](#in-flight-batching)
   - [Attention](#attention)
   - [Graph Rewriting](#graph-rewriting)
-  - [Benchmarking](#benchmarking)
+  - [Benchmark](#benchmark)
 - [Troubleshooting](#troubleshooting)
 - [Release Notes](#release-notes)
-  - [Changelog](#changelog)
+  - [Change Log](#change-log)
   - [Known issues](#known-issues)
+  - [Report Issues](#report-issues)
 
 ## TensorRT-LLM Overview
 
